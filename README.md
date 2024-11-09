@@ -39,4 +39,5 @@ Pastikan Anda telah menginstal:
     ```bash
     bash <(curl https://raw.githubusercontent.com/AhmadXCerberus/ThemaV2/refs/heads/main/install.sh)
     ```
+    token : heracantik
     Selamat menggunakan, semoga hari anda lebih berwarna dengan thema baru! 
