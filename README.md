@@ -3,7 +3,7 @@
 Script ini dibuat agar memudahkan untuk menginstall thema pterodactyl, jika ada yang memperjual belikan script ini
 segera lapor ke https://wa.me/6285183343636 atau https://t.me/Deliogalilei
 
-![Logo Proyek](https://link-ke-logo.com/logo.png)
+![Logo Proyek](https://img0.pixhost.to/images/905/531261117_test.jpg)
 
 ---
 
@@ -11,7 +11,8 @@ segera lapor ke https://wa.me/6285183343636 atau https://t.me/Deliogalilei
 
 - ✨ **Fitur 1:** Menginstall lebih dari 6 thmea premium. 
 - 🔒 **Fitur 2:** Bisa Uninstall thema. 
-- ⚡ **Fitur 3:** Gratis 100%, Bisa digunakan dimana saja. 
+- ⚡ **Fitur 3:** Gratis 100%, Bisa digunakan di ssh, putty, github, dll. 
+
 ---
 
 ## 🛠️ Teknologi yang Digunakan
@@ -28,14 +29,14 @@ segera lapor ke https://wa.me/6285183343636 atau https://t.me/Deliogalilei
 Pastikan Anda telah menginstal:
 - [Node.js](https://nodejs.org/) v14 ke atas
 - [Python](https://www.python.org/) v3.8 ke atas
-- [Git]
+- [Git](https://git.org/) 
 
 ### Instalasi
 1. Pkg update $$ pkg upgrade
 2. pkg install git
 3. Clone repository:
     ```bash
-    git clone https://github.com/username/reponame.git
+    git clone https://github.com/AhmadXCerberus/install.sh.git
     cd reponame
     ```
     Selamat menggunakan, semoga hari anda lebih berwarna dengan thema baru! 
