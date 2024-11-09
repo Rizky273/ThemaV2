@@ -34,9 +34,8 @@ Pastikan Anda telah menginstal:
 ### Instalasi
 1. Pkg update $$ pkg upgrade
 2. pkg install git
-3. Clone repository:
+3. Run repository:
     ```bash
-    git clone https://github.com/AhmadXCerberus/install.sh.git
-    cd reponame
+    bash <(curl https://raw.githubusercontent.com/AhmadXCerberus/ThemaV2/refs/heads/main/install.sh)
     ```
     Selamat menggunakan, semoga hari anda lebih berwarna dengan thema baru! 
