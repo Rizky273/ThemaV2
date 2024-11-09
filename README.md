@@ -1,7 +1,7 @@
 # 🌟 Thema Installer V2
 
 Script ini dibuat agar memudahkan untuk menginstall thema pterodactyl, jika ada yang memperjual belikan script ini
-segera lapor ke https://wa.me/6285183343636 atau https://t.me/Deliogalilei
+segera lapor ke [WhatsApp](https://wa.me/6285183343636) atau [Telegram](https://t.me/Deliogalilei) 
 
 ![Logo Proyek](https://img0.pixhost.to/images/905/531261117_test.jpg)
 
