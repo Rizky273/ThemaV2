@@ -9,9 +9,9 @@ segera lapor ke https://wa.me/6285183343636 atau https://t.me/Deliogalilei
 
 ## 🚀 Fitur Utama
 
-✨ Install Lebih dari 6 Tema Premium: Menyediakan berbagai tema premium yang bisa diinstal dengan mudah.
-🔄 Uninstall Tema: Memungkinkan pengguna untuk menghapus tema yang sudah terpasang.
-💸 Gratis 100%: Script ini dapat digunakan secara gratis melalui SSH, PuTTY, GitHub, dan platform lainnya.
+- ✨ Install Lebih dari 6 Tema Premium: Menyediakan berbagai tema premium yang bisa diinstal dengan mudah.
+- 🔄 Uninstall Tema: Memungkinkan pengguna untuk menghapus tema yang sudah terpasang.
+- 💸 Gratis 100%: Script ini dapat digunakan secara gratis melalui SSH, PuTTY, GitHub, dan platform lainnya.
 
 
 ---
