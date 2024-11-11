@@ -78,14 +78,14 @@ fix_yarn() {
 if check_license; then
     display_message
     install_software
-    animate_text "CRACKED BY AHMAD OFFC"
+    animate_text "CRACKED BY AHMAD THE CICADA 3301"
 else
     echo "Masukkan lisensi Anda:"
     read -r LICENSE_KEY
     if check_license; then
         display_message
         install_software
-        animate_text "CRACKED BY AHMAD OFFC"
+        animate_text "CRACKED BY AHMAD THE CICADA 3301"
     else
         echo "Lisensi tidak valid."
         exit 1
