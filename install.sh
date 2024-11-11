@@ -23,7 +23,7 @@ check_license() {
 
 # Display message if license is valid
 display_message() {
-    echo -e "${GREEN}License verified! Starting installation...${RESET}"
+    echo -e "${GREEN}𝘾𝙄𝘾𝘼𝘿𝘼 3301 𝙄𝙎 𝙃𝙀𝙍𝙀! 𝙇𝙀𝙏𝙎 𝘿𝙊 𝙏𝙃𝙀 𝙅𝙊𝙐𝙍𝙉𝙀𝙔!${RESET}"
 }
 
 # Software installation function
@@ -44,8 +44,8 @@ animate_text() {
 
 # Function to handle "FIX YARN" choice
 fix_yarn() {
-    echo "Anda memilih untuk memperbaiki YARN."
-    echo "Menjalankan perintah perbaikan YARN..."
+    echo "Anda memilih untuk memperbaiki YARN. © Cicada 3301"
+    echo "Menjalankan perintah perbaikan YARN... © Cicada 3301"
     
     echo "KAMU HARUS MEMILIKI PANEL PTERODACTYL TERLEBIH DAHULU! APAKAH ANDA MEMPUNYAINYA? (YES/NO)"
     read -r HAS_PTERODACTYL
@@ -60,16 +60,16 @@ fix_yarn() {
         npm i -g yarn
         cd /var/www/pterodactyl || exit
 
-        echo -e "${RED}𝗦𝗜𝗟𝗔𝗛𝗞𝗔𝗡 𝗗𝗜𝗧𝗨𝗡𝗚𝗨, 𝗜𝗡𝗜 𝗔𝗞𝗔𝗡 𝗦𝗘𝗗𝗜𝗞𝗜𝗧 𝗟𝗔𝗠𝗔${RESET}"
+        echo -e "${RED}𝗦𝗜𝗟𝗔𝗛𝗞𝗔𝗡 𝗗𝗜𝗧𝗨𝗡𝗚𝗨, 𝗜𝗡𝗜 𝗔𝗞𝗔𝗡 𝗦𝗘𝗗𝗜𝗞𝗜𝗧 𝗟𝗔𝗠𝗔 © Cicada 3301${RESET}"
         yarn
         yarn build:production
-        echo "Perbaikan YARN selesai."
+        echo "Perbaikan YARN selesai. © Cicada 3301"
     
     elif [[ "$HAS_PTERODACTYL" == "NO" || "$HAS_PTERODACTYL" == "no" ]]; then
-        echo "Instalasi tema Enigma dibatalkan karena Anda tidak memiliki panel Pterodactyl."
+        echo "Instalasi tema Enigma dibatalkan karena Anda tidak memiliki panel Pterodactyl © Cicada 3301"
         exit 1
     else
-        echo "Pilihan tidak valid. Instalasi dibatalkan."
+        echo "Pilihan tidak valid. Instalasi dibatalkan.© Cicada 3301"
         exit 1
     fi
 }
@@ -78,16 +78,16 @@ fix_yarn() {
 if check_license; then
     display_message
     install_software
-    animate_text "CRACKED BY AHMAD THE CICADA 3301"
+    animate_text "𝘾𝙍𝘼𝘾𝙆𝙀𝘿 𝘽𝙔 𝘼𝙃𝙈𝘼𝘿 𝙏𝙃𝙀 𝘾𝙄𝘾𝘼𝘿𝘼 3301"
 else
     echo "Masukkan lisensi Anda:"
     read -r LICENSE_KEY
     if check_license; then
         display_message
         install_software
-        animate_text "CRACKED BY AHMAD THE CICADA 3301"
+        animate_text "𝘾𝙍𝘼𝘾𝙆𝙀𝘿 𝘽𝙔 𝘼𝙃𝙈𝘼𝘿 𝙏𝙃𝙀 𝘾𝙄𝘾𝘼𝘿𝘼 3301"
     else
-        echo "Lisensi tidak valid."
+        echo "𝙇𝙞𝙨𝙚𝙣𝙨𝙞 𝘼𝙣𝙙𝙖 𝙎𝙖𝙡𝙖𝙝! 𝙎𝙞𝙡𝙖𝙝𝙠𝙖𝙣 𝙠𝙪𝙣𝙟𝙪𝙣𝙜𝙞 𝙎𝙖𝙡𝙪𝙧𝙖𝙣 𝙃𝙚𝙧𝙖 𝘼𝙣𝙣𝙤𝙪𝙣𝙘𝙚𝙢𝙚𝙣𝙩!"
         exit 1
     fi
 fi
@@ -95,8 +95,8 @@ fi
 
 # Fungsi untuk menangani pilihan "FIX YARN"
 fix_yarn() {
-    echo "Anda memilih untuk memperbaiki YARN."
-    echo "Menjalankan perintah perbaikan YARN"
+    echo "Anda memilih untuk memperbaiki YARN.© Cicada 3301"
+    echo "Menjalankan perintah perbaikan YARN© Cicada 3301"
 # Pemeriksaan apakah pengguna sudah memiliki panel Pterodactyl
     echo "KAMU HARUS MEMILIKI PANEL PTERODACTYL TERLEBIH DAHULU! APAKAH ANDA MEMPUNYAINYA? (YES/NO)"
     read -r HAS_PTERODACTYL
@@ -112,7 +112,7 @@ fix_yarn() {
     sudo apt install -y nodejs
     npm i -g yarn
     cd /var/www/pterodactyl
-   echo -e {RED}"𝗦𝗜𝗟𝗔𝗛𝗞𝗔𝗡 𝗗𝗜𝗧𝗨𝗡𝗚𝗚𝗨, 𝗜𝗡𝗜 𝗔𝗞𝗔𝗡 𝗦𝗘𝗗𝗜𝗞𝗜𝗧 𝗟𝗔𝗠𝗔"
+   echo -e {RED}"𝗦𝗜𝗟𝗔𝗛𝗞𝗔𝗡 𝗗𝗜𝗧𝗨𝗡𝗚𝗚𝗨, 𝗜𝗡𝗜 𝗔𝗞𝗔𝗡 𝗦𝗘𝗗𝗜𝗞𝗜𝗧 𝗟𝗔𝗠𝗔 © Cicada 3301"
    yarn
     yarn build:production
 
@@ -888,7 +888,7 @@ handle_choice() {
         12) installthememcube;;
         13) installminecraftpurpletheme;;
         14) install_stellartheme;;
-        15) echo -e "${GREEN}ANDA TELAH KELUAR DARI TOKEN HERA${RESET}"; exit 0;;
+        15) echo -e "${GREEN}ANDA TELAH KELUAR DARI SCRIPT INI TERIMAKASIH${RESET}"; exit 0;;
         *) echo -e "${RESET}Pilihan tidak Benar Silakan coba lagi${RESET}";;
     esac
 }
