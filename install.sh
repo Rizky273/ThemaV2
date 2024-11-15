@@ -10,7 +10,7 @@ MAGENTA='\033[0;35m'
 CYAN='\033[0;36m'
 
 # License key variable
-LICENSE_KEY="heracantik"
+LICENSE_KEY="heracntik"
 
 # Function to check license
 check_license() {
