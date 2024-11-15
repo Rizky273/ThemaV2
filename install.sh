@@ -10,11 +10,11 @@ MAGENTA='\033[0;35m'
 CYAN='\033[0;36m'
 
 # License key variable
-LICENSE_KEY="heracantik"
+LICENSE_KEY="Rizky"
 
 # Function to check license
 check_license() {
-    if [ "$LICENSE_KEY" == "heracantik" ]; then
+    if [ "$LICENSE_KEY" == "Rizky" ]; then
         return 0
     else
         return 1
